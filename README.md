@@ -1,2 +1,1 @@
-# library-management-system
-Nhóm 7- Hệ thống quản lý thư viện
+﻿# He thong Quan ly Thu vien - Phien ban cua Thanh Vien
